@@ -49,12 +49,11 @@ export default function AboutPage() {
               30 minutes for canteen, <br /> just for the break to end as soon as they get
               their turn, we <br /> will profit from this, and our students will
               profit from this saving their time and money <br /> (WE GIVE
-              DISCOUNTS AND OUR PRICE IS CHEAPER THEN CANTEEN), <br /> what we
-              want to YOU guys to do is to buy products from us, but not telling
-              any Sirs/Teachers.
+              DISCOUNTS AND OUR PRICE IS CHEAPER THEN CANTEEN)
               <br />
               (Some features like displaying cart sub-total/total are still Work
               In Progress(WIP))
+              (NOTE: NOT ACTUALLY SELLING SNACKS AT A SCHOOL, DONT DO THIS AT HOME KIDS 🤫)
             </p>
           </div>
         </div>
